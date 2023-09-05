@@ -33,7 +33,7 @@ module Elegant
       @author = 'Elegant'
       @creator = 'Elegant'
       @producer = 'Elegant'
-      @watermark = asset 'images/default_watermark.png'
+      @watermark = asset 'images/default_watermark_betr.png'
       @fonts = {'Sans Serif' => default_font, 'Fallback' => default_font}
     end
 
